@@ -1,0 +1,12 @@
+contract address for following contract:
+    ConsumerRole:"0x464377f74B22A69dC8360F52B0d184C1E2CA316d"
+    DistributorRole:"0xe6E1E76669b64D4a8B57073B5E82B30daE583493"
+    FarmerRole:"0xfF44372E902100C77550288fEDa60d7Cce3e203D"
+    RetailerRole:"0x9F183C8a951886521210b9c000C16737D25b4dfa"
+    SupplyChain: "0x7200C41E08f6dCC299938451A61fAa35b059156d"
+
+Library used: "truffle-hdwallet-provider"
+               it is used for deploying on rinkeby network
+node version : v8.17.0
+Truffle version: ^0.4.24
+web3 version: 1.2.6
